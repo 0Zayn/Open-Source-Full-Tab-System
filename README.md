@@ -51,7 +51,7 @@ Now remove this extra tab from your tab control you only need one
 </TabItem>
 ```
 
-Also remove this from the tab your planning on using ```<Grid Background="#FFE5E5E5"/>``` and replace it with 
+Also remove this code snippet from the tab ```<Grid Background="#FFE5E5E5"/>``` and replace it with 
 
 ```<cef:ChromiumWebBrowser x:Name="MonacoEditor" Address="{Binding}"/>```
 
