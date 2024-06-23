@@ -1,3 +1,5 @@
+Note: I'm reading over this now, over a year later this codebase absolutely sucks, I would not recommend using this at all. It lacks optimizations, and it would probably be better to make this have a single instance of CefSharp instead of creating a new one for each tab.
+
 # [Open-Source] Full Tab System
 Full tab system containing all the information you need to start up your new application. This project has now been released, and will be open for all to use and learn from, feel free to use this in your application, and please do not distribute this under your name. I do not want people to use this for materials they will release for paid use, so please do not. Also this is a tutorial for begginers, so dont be lazy and ask for Download Links, I didn't write all this just for people to skip it and go straight to installation without learning anything.
 
